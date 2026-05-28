@@ -1,7 +1,7 @@
 # Claude Code Extracted Prompts
 
-Source binary: node_modules/@anthropic-ai/claude-code-darwin-arm64/claude
-Claude Code: 2.1.152 (Claude Code)
+Source binary: node_modules/@anthropic-ai/claude-code-linux-x64/claude
+Claude Code: 2.1.153 (Claude Code)
 
 Notes:
 - Claude Code does not currently expose a structured prompt-debug command like `codex debug prompt-input`.
