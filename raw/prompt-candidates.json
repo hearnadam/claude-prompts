@@ -1,0 +1,210 @@
+[
+  {
+    "name": "auto-mode-classifier-reviewer",
+    "length": 1260,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "claude-code",
+    "length": 402,
+    "source": {
+      "kind": "StringLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "codebase-search-specialist",
+    "length": 884,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "conversation-search-agent",
+    "length": 695,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "conversation-summary-continuation",
+    "length": 5424,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "conversation-summary-session",
+    "length": 3532,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "date-time-parser",
+    "length": 669,
+    "source": {
+      "kind": "array",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "hook-condition-evaluator",
+    "length": 319,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "onboarding-guide-generator",
+    "length": 4539,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "plan-finalizer",
+    "length": 842,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "security-monitor-agent",
+    "length": 15249,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "session-title-branch-generator",
+    "length": 1295,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "skill-generator",
+    "length": 7262,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "status-line-setup-agent",
+    "length": 8519,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "stop-condition-evaluator",
+    "length": 1451,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "team-create",
+    "length": 6772,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "team-shutdown-reminder",
+    "length": 566,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "usage-friction-points",
+    "length": 512,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "usage-future-opportunities",
+    "length": 522,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "usage-improvements",
+    "length": 2663,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "usage-interaction-style",
+    "length": 464,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "usage-memorable-moment",
+    "length": 371,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "usage-project-areas",
+    "length": 306,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "usage-session-facets",
+    "length": 1112,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "usage-working-well",
+    "length": 402,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  },
+  {
+    "name": "workflow-subagent",
+    "length": 590,
+    "source": {
+      "kind": "TemplateLiteral",
+      "offset": 192253624
+    }
+  }
+]

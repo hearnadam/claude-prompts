@@ -45,7 +45,7 @@ jobs:
             echo "No prompt changes."
             exit 0
           fi
-          CLAUDE_VERSION=$(node -p "require('./node_modules/@anthropic-ai/claude-code/package.json').version")
+          CLAUDE_VERSION=$(bun -e "console.log(require('./node_modules/@anthropic-ai/claude-code/package.json').version)")
           git commit -m "Regenerate prompts for @anthropic-ai/claude-code@${CLAUDE_VERSION}"
           git push
 

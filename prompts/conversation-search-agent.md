@@ -1,6 +1,4 @@
-# you-are-searching-for-past-claude-code-conversation-sessions-on-behalf-of-the-us
-
-_Source: embedded string in Claude Code binary; matched "You are"_
+# conversation-search-agent
 
 You are searching for past Claude Code conversation sessions on behalf of the user.
 
