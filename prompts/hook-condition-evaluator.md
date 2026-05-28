@@ -1,6 +1,4 @@
-# you-are-evaluating-a-hook-condition-in-claude-code
-
-_Source: embedded string in Claude Code binary; matched "You are"_
+# hook-condition-evaluator
 
 You are evaluating a hook condition in Claude Code. Judge whether the user-provided condition is met.
 

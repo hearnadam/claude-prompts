@@ -26,7 +26,7 @@ jobs:
       - name: Update @anthropic-ai/claude-code
         id: claude
         run: |
-          current=$(node -p "require('./package.json').dependencies['@anthropic-ai/claude-code']")
+          current=$(bun -e "console.log(require('./package.json').dependencies['@anthropic-ai/claude-code'])")
           latest=$(bun pm view @anthropic-ai/claude-code version)
 
           echo "current=${current}" >> "$GITHUB_OUTPUT"
