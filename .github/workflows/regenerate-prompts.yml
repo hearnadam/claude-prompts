@@ -1,0 +1,67 @@
+name: Regenerate prompts on Claude bump
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
+      - labeled
+    paths:
+      - package.json
+      - bun.lock
+      - .github/workflows/regenerate-prompts.yml
+      - .github/workflows/update-claude.yml
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  regenerate:
+    if: contains(github.event.pull_request.labels.*.name, 'claude-bump')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - run: bun install --frozen-lockfile
+
+      - run: bun run extract
+
+      - name: Commit regenerated prompts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A prompts raw claude-prompts.md
+          if git diff --cached --quiet; then
+            echo "No prompt changes."
+            exit 0
+          fi
+          CLAUDE_VERSION=$(node -p "require('./node_modules/@anthropic-ai/claude-code/package.json').version")
+          git commit -m "Regenerate prompts for @anthropic-ai/claude-code@${CLAUDE_VERSION}"
+          git push
+
+      - name: Auto-approve Claude bump PR
+        if: github.event.pull_request.head.repo.full_name == github.repository && (github.event.pull_request.user.login == 'github-actions[bot]' || github.event.pull_request.user.login == 'hearnadam')
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          gh pr review "$PR_NUMBER" --approve --body "Auto-approved: claude-bump PR after prompt regeneration check."
+
+      - name: Enable auto-merge
+        if: github.event.pull_request.head.repo.full_name == github.repository && (github.event.pull_request.user.login == 'github-actions[bot]' || github.event.pull_request.user.login == 'hearnadam')
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          gh pr merge "$PR_NUMBER" --auto --squash --delete-branch

@@ -1,0 +1,57 @@
+name: Update Claude Code dependency
+
+on:
+  schedule:
+    - cron: "23 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: update-claude
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Update @anthropic-ai/claude-code
+        id: claude
+        run: |
+          current=$(node -p "require('./package.json').dependencies['@anthropic-ai/claude-code']")
+          latest=$(bun pm view @anthropic-ai/claude-code version)
+
+          echo "current=${current}" >> "$GITHUB_OUTPUT"
+          echo "latest=${latest}" >> "$GITHUB_OUTPUT"
+
+          if [ "$current" = "$latest" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          bun add "@anthropic-ai/claude-code@${latest}"
+          bun run extract
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Create update PR
+        if: steps.claude.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: bot/update-claude
+          delete-branch: true
+          title: "deps: update @anthropic-ai/claude-code to ${{ steps.claude.outputs.latest }}"
+          commit-message: "deps: update @anthropic-ai/claude-code to ${{ steps.claude.outputs.latest }}"
+          body: |
+            Updates `@anthropic-ai/claude-code` from `${{ steps.claude.outputs.current }}` to `${{ steps.claude.outputs.latest }}`.
+
+            This workflow also runs `bun run extract` so generated prompt artifacts stay in sync with the package bump.
+          labels: claude-bump

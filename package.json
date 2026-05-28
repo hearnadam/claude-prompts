@@ -1,0 +1,11 @@
+{
+  "name": "claude-prompts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "extract": "bun run extract-claude-prompts.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/claude-code": "2.1.152"
+  }
+}
