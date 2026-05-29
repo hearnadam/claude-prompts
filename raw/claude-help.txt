@@ -104,7 +104,7 @@ Options:
   --model <model>                       Model for the current session. Provide
                                         an alias for the latest model (e.g.
                                         'sonnet' or 'opus') or a model's full
-                                        name (e.g. 'claude-sonnet-4-6').
+                                        name (e.g. 'claude-opus-4-8').
   -n, --name <name>                     Set a display name for this session
                                         (shown in the prompt box, /resume
                                         picker, and terminal title)
@@ -138,6 +138,12 @@ Options:
                                         that fail validation are silently
                                         ignored in this mode (no error dialog is
                                         shown).
+  --prompt-suggestions [value]          Enable prompt suggestions. In print/SDK
+                                        mode, emits a prompt_suggestion message
+                                        after each turn with a predicted next
+                                        user prompt (choices: "true", "false",
+                                        "1", "0", "yes", "no", "on", "off",
+                                        preset: "true")
   --remote-control [name]               Start an interactive session with Remote
                                         Control enabled (optionally named)
   --remote-control-session-name-prefix <prefix>
