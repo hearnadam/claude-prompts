@@ -19,7 +19,7 @@ Analyze this Claude Code usage data and suggest improvements.
    - How to use: `claude -p "fix lint errors" --allowedTools "Edit,Read,Bash"`
    - Good for: CI/CD integration, batch code fixes, automated reviews
 
-5. **Task Agents**: Claude spawns focused sub-agents for complex exploration or parallel work.
+5. **Task Agents**: Claude spawns focused subagents for complex exploration or parallel work.
    - How to use: Claude auto-invokes when helpful, or ask "use an agent to explore X"
    - Good for: codebase exploration, understanding complex systems
 
