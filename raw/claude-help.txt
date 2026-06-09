@@ -158,6 +158,17 @@ Options:
   -r, --resume [value]                  Resume a conversation by session ID, or
                                         open interactive picker with optional
                                         search term
+  --safe-mode                           Start with all customizations
+                                        (CLAUDE.md, skills, plugins, hooks, MCP
+                                        servers, custom commands and agents,
+                                        output styles, workflows, custom themes,
+                                        keybindings, and more) disabled — useful
+                                        for troubleshooting a broken
+                                        configuration. Admin-managed (policy)
+                                        settings still apply. Auth, model
+                                        selection, built-in tools, and
+                                        permissions work normally. Sets
+                                        CLAUDE_CODE_SAFE_MODE=1.
   --session-id <uuid>                   Use a specific session ID for the
                                         conversation (must be a valid UUID)
   --setting-sources <sources>           Comma-separated list of setting sources
