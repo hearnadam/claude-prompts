@@ -106,8 +106,9 @@ Options:
                                         MCP debug mode (shows MCP server errors)
   --model <model>                       Model for the current session. Provide
                                         an alias for the latest model (e.g.
-                                        'sonnet' or 'opus') or a model's full
-                                        name (e.g. 'claude-opus-4-8').
+                                        'fable', 'opus', or 'sonnet') or a
+                                        model's full name (e.g.
+                                        'claude-fable-5').
   -n, --name <name>                     Set a display name for this session
                                         (shown in the prompt box, /resume
                                         picker, and terminal title)
