@@ -1,15 +1,15 @@
 {
   "chunks": [
     {
-      "offset": 1622327,
+      "offset": 1622307,
       "length": 80591
     },
     {
-      "offset": 1704940,
+      "offset": 1704920,
       "length": 107125
     },
     {
-      "offset": 1825135,
+      "offset": 1825115,
       "length": 477363
     },
     {
@@ -17,8 +17,8 @@
       "length": 248503
     },
     {
-      "offset": 228880616,
-      "length": 16578231
+      "offset": 229928904,
+      "length": 16809257
     }
   ],
   "parseErrors": [
