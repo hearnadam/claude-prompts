@@ -1,7 +1,7 @@
 # Claude Code Extracted Prompts
 
 Source binary: node_modules/@anthropic-ai/claude-code-linux-x64/claude
-Claude Code: 2.1.177 (Claude Code)
+Claude Code: 2.1.178 (Claude Code)
 
 Notes:
 - Claude Code does not currently expose a structured prompt-debug command like `codex debug prompt-input`.
@@ -25,7 +25,6 @@ Notes:
 - [skill-generator](prompts/skill-generator.md)
 - [status-line-setup-agent](prompts/status-line-setup-agent.md)
 - [stop-condition-evaluator](prompts/stop-condition-evaluator.md)
-- [team-create](prompts/team-create.md)
 - [team-shutdown-reminder](prompts/team-shutdown-reminder.md)
 - [usage-friction-points](prompts/usage-friction-points.md)
 - [usage-future-opportunities](prompts/usage-future-opportunities.md)
