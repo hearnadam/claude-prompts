@@ -24,6 +24,9 @@ Options:
       Edit")
   --append-system-prompt <prompt>       Append a system prompt to the default
                                         system prompt
+  --ax-screen-reader                    Render screen-reader friendly output
+                                        (flat text, no decorative borders or
+                                        animations).
   --bare                                Minimal mode: skip hooks, LSP, plugin
                                         sync, attribution, auto-memory,
                                         background prefetches, keychain reads,
