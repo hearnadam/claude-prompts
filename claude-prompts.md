@@ -1,7 +1,7 @@
 # Claude Code Extracted Prompts
 
 Source binary: node_modules/@anthropic-ai/claude-code-linux-x64/claude
-Claude Code: 2.1.181 (Claude Code)
+Claude Code: 2.1.183 (Claude Code)
 
 Notes:
 - Claude Code does not currently expose a structured prompt-debug command like `codex debug prompt-input`.
@@ -10,6 +10,8 @@ Notes:
 - Treat prompt files as extracted embedded prompt components, not guaranteed fully composed runtime prompts.
 
 - [auto-mode-classifier-reviewer](prompts/auto-mode-classifier-reviewer.md)
+- [building-llm-powered-applications-with-claude](prompts/building-llm-powered-applications-with-claude.md)
+- [claude-api-ruby](prompts/claude-api-ruby.md)
 - [claude-code](prompts/claude-code.md)
 - [codebase-search-specialist](prompts/codebase-search-specialist.md)
 - [conversation-search-agent](prompts/conversation-search-agent.md)
@@ -20,12 +22,12 @@ Notes:
 - [onboarding-guide-generator](prompts/onboarding-guide-generator.md)
 - [operating-autonomously](prompts/operating-autonomously.md)
 - [plan-finalizer](prompts/plan-finalizer.md)
-- [security-monitor-agent](prompts/security-monitor-agent.md)
 - [session-title-branch-generator](prompts/session-title-branch-generator.md)
 - [skill-generator](prompts/skill-generator.md)
 - [status-line-setup-agent](prompts/status-line-setup-agent.md)
 - [stop-condition-evaluator](prompts/stop-condition-evaluator.md)
 - [team-shutdown-reminder](prompts/team-shutdown-reminder.md)
+- [tool-use-php](prompts/tool-use-php.md)
 - [usage-friction-points](prompts/usage-friction-points.md)
 - [usage-future-opportunities](prompts/usage-future-opportunities.md)
 - [usage-improvements](prompts/usage-improvements.md)
