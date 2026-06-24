@@ -27,6 +27,9 @@ Options:
   --ax-screen-reader                    Render screen-reader friendly output
                                         (flat text, no decorative borders or
                                         animations).
+  --bg, --background                    Start the session as a background agent
+                                        and return immediately (manage with
+                                        `claude agents`)
   --bare                                Minimal mode: skip hooks, LSP, plugin
                                         sync, attribution, auto-memory,
                                         background prefetches, keychain reads,
