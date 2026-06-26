@@ -51,7 +51,7 @@ How to use the statusLine command:
        "added_dirs": ["string"], // Directories added via /add-dir
        "git_worktree": "string", // Optional: git worktree name when cwd is in a linked worktree
        "repo": {                 // Optional: repository identity from the origin remote
-         "host": "string",       // Remote host (e.g., "github.com")
+         "host": "string",       // Remote host (e.g. github.com)
          "owner": "string",      // Repository owner/organization (e.g., "anthropics")
          "name": "string"        // Repository name (e.g., "claude-code")
        }
