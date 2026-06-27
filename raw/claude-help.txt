@@ -209,6 +209,8 @@ Commands:
                                         .mcp.json are spawned for health checks.
                                         Only use this command in directories you
                                         trust.
+  gateway [options]                     Run the enterprise auth/telemetry
+                                        gateway
   install [options] [target]            Install Claude Code native build. Use
                                         [target] to specify version (stable,
                                         latest, or specific version)
