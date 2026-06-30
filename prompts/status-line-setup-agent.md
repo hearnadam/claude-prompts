@@ -39,6 +39,7 @@ How to use the statusLine command:
    {
      "session_id": "string", // Unique session ID
      "session_name": "string", // Optional: Human-readable session name set via /rename
+     "prompt_id": "string", // Optional: UUID of the prompt being processed (same as OTel prompt.id)
      "transcript_path": "string", // Path to the conversation transcript
      "cwd": "string",         // Current working directory
      "model": {
