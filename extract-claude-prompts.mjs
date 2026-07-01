@@ -315,3 +315,12 @@ fs.writeFileSync(INDEX_FILE, index);
 console.log(`Parsed ${chunks.length} embedded JavaScript chunks from ${claudeBin}`);
 console.log(`Wrote ${prompts.length} prompt files to ${PROMPTS_DIR}`);
 console.log(`Wrote index to ${INDEX_FILE}`);
+
+const MIN_PROMPTS = 10;
+if (prompts.length < MIN_PROMPTS) {
+  throw new Error(
+    `Only ${prompts.length} prompt(s) extracted (expected at least ${MIN_PROMPTS}) — ` +
+    'the binary format may have changed. ' +
+    'Check extract-claude-prompts.mjs and update the extraction logic.'
+  );
+}
