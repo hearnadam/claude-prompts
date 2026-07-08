@@ -1,7 +1,7 @@
 # Claude Code Extracted Prompts
 
 Source binary: node_modules/@anthropic-ai/claude-code-linux-x64/claude
-Claude Code: 2.1.202 (Claude Code)
+Claude Code: 2.1.204 (Claude Code)
 
 Notes:
 - Claude Code does not currently expose a structured prompt-debug command like `codex debug prompt-input`.
@@ -10,7 +10,7 @@ Notes:
 - Treat prompt files as extracted embedded prompt components, not guaranteed fully composed runtime prompts.
 
 - [auto-mode-classifier-reviewer](prompts/auto-mode-classifier-reviewer.md)
-- [building-llm-powered-applications-with-claude](prompts/building-llm-powered-applications-with-claude.md)
+- [claude-agent-sdk](prompts/claude-agent-sdk.md)
 - [claude-api-ruby](prompts/claude-api-ruby.md)
 - [claude-code](prompts/claude-code.md)
 - [codebase-search-specialist](prompts/codebase-search-specialist.md)
