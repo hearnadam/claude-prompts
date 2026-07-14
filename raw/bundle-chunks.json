@@ -1,18 +1,18 @@
 {
   "chunks": [
     {
-      "offset": 20557920,
-      "length": 251892
+      "offset": 20596400,
+      "length": 253237
     },
     {
-      "offset": 234392824,
-      "length": 19478196
+      "offset": 234763176,
+      "length": 19655912
     }
   ],
   "parseErrors": [
     {
-      "offset": 20557920,
-      "length": 251892,
+      "offset": 20596400,
+      "length": 253237,
       "error": "This experimental syntax requires enabling one of the following parser plugin(s): \"decorators\", \"decorators-legacy\". (2:27)"
     }
   ]
