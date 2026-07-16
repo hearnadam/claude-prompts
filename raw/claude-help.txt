@@ -85,6 +85,10 @@ Options:
   --fork-session                        When resuming, create a new session ID
                                         instead of reusing the original (use
                                         with --resume or --continue)
+  --forward-subagent-text               Forward subagent text and thinking
+                                        blocks as assistant/user messages with
+                                        parent_tool_use_id set (only works with
+                                        --print and --output-format=stream-json)
   --from-pr [value]                     Resume a session linked to a PR by PR
                                         number/URL, or open interactive picker
                                         with optional search term
