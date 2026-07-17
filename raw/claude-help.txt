@@ -205,7 +205,7 @@ Options:
 Commands:
   agents [options]                      Manage background agents
   auth                                  Manage authentication
-  auto-mode                             Inspect auto mode classifier
+  auto-mode                             Inspect or reset auto mode classifier
                                         configuration
   doctor                                Check the health of your Claude Code
                                         installation. Reads settings files in
