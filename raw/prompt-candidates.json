@@ -4,23 +4,23 @@
     "length": 1260,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
     "name": "claude-agent-sdk",
-    "length": 67171,
+    "length": 69728,
     "source": {
       "kind": "StringLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
     "name": "claude-api-ruby",
-    "length": 4125,
+    "length": 4453,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -28,7 +28,7 @@
     "length": 402,
     "source": {
       "kind": "StringLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -36,7 +36,7 @@
     "length": 1030,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -44,7 +44,7 @@
     "length": 669,
     "source": {
       "kind": "array",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -52,7 +52,7 @@
     "length": 319,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -60,7 +60,7 @@
     "length": 4539,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -68,7 +68,7 @@
     "length": 1354,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -76,7 +76,7 @@
     "length": 482,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -84,15 +84,7 @@
     "length": 320,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
-    }
-  },
-  {
-    "name": "plan-finalizer",
-    "length": 842,
-    "source": {
-      "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -100,7 +92,7 @@
     "length": 1233,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -108,7 +100,7 @@
     "length": 1295,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -116,7 +108,7 @@
     "length": 7262,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -124,7 +116,7 @@
     "length": 1451,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -132,7 +124,7 @@
     "length": 566,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -140,7 +132,7 @@
     "length": 8060,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -148,7 +140,7 @@
     "length": 512,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -156,7 +148,7 @@
     "length": 522,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -164,7 +156,7 @@
     "length": 2662,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -172,7 +164,7 @@
     "length": 464,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -180,7 +172,7 @@
     "length": 371,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -188,7 +180,7 @@
     "length": 306,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -196,7 +188,7 @@
     "length": 1112,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -204,7 +196,7 @@
     "length": 402,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   },
   {
@@ -212,7 +204,7 @@
     "length": 590,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 245344056
+      "offset": 246859528
     }
   }
 ]
