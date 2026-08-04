@@ -24,6 +24,8 @@ Options:
       Edit")
   --append-system-prompt <prompt>       Append a system prompt to the default
                                         system prompt
+  --autocompact <auto|tokens>           Auto-compact window size (auto, or
+                                        100k–1M tokens)
   --ax-screen-reader                    Render screen-reader friendly output
                                         (flat text, no decorative borders or
                                         animations).
