@@ -216,6 +216,8 @@ Commands:
                                         fix issues, run /doctor in a session.
   gateway [options]                     Run the enterprise auth/telemetry
                                         gateway
+  import [options] [source]             Import config from another AI coding
+                                        agent into Claude Code
   install [options] [target]            Install Claude Code native build. Use
                                         [target] to specify version (stable,
                                         latest, or specific version)
