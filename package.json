@@ -6,7 +6,7 @@
     "extract": "bun run extract-claude-prompts.mjs"
   },
   "dependencies": {
-    "@anthropic-ai/claude-code": "2.1.228",
+    "@anthropic-ai/claude-code": "2.1.231",
     "@babel/parser": "^7.29.7"
   }
 }
