@@ -1,7 +1,7 @@
 # Claude Code Extracted Prompts
 
 Source binary: node_modules/@anthropic-ai/claude-code-linux-x64/claude
-Claude Code: 2.1.233 (Claude Code)
+Claude Code: 2.1.234 (Claude Code)
 
 Notes:
 - Claude Code does not currently expose a structured prompt-debug command like `codex debug prompt-input`.
@@ -14,14 +14,15 @@ Notes:
 - [claude-api-ruby](prompts/claude-api-ruby.md)
 - [claude-code](prompts/claude-code.md)
 - [codebase-search-specialist](prompts/codebase-search-specialist.md)
+- [coming-up-with-a-title-and-a-git-branch-name-for-a-coding-session-based](prompts/coming-up-with-a-title-and-a-git-branch-name-for-a-coding-session-based.md)
 - [date-time-parser](prompts/date-time-parser.md)
 - [hook-condition-evaluator](prompts/hook-condition-evaluator.md)
 - [onboarding-guide-generator](prompts/onboarding-guide-generator.md)
 - [operating-autonomously](prompts/operating-autonomously.md)
 - [phase-1-initial-understanding](prompts/phase-1-initial-understanding.md)
 - [phase-2-design](prompts/phase-2-design.md)
+- [pull-request-helper](prompts/pull-request-helper.md)
 - [selecting-memories-that-will-be-useful-to-claude-code-as-it-processes-a](prompts/selecting-memories-that-will-be-useful-to-claude-code-as-it-processes-a.md)
-- [session-title-branch-generator](prompts/session-title-branch-generator.md)
 - [skill-generator](prompts/skill-generator.md)
 - [stop-condition-evaluator](prompts/stop-condition-evaluator.md)
 - [team-shutdown-reminder](prompts/team-shutdown-reminder.md)
