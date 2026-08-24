@@ -5,29 +5,29 @@
     "": {
       "name": "claude-prompts",
       "dependencies": {
-        "@anthropic-ai/claude-code": "2.1.239",
+        "@anthropic-ai/claude-code": "2.1.241",
         "@babel/parser": "^7.29.7",
       },
     },
   },
   "packages": {
-    "@anthropic-ai/claude-code": ["@anthropic-ai/claude-code@2.1.239", "", { "optionalDependencies": { "@anthropic-ai/claude-code-darwin-arm64": "2.1.239", "@anthropic-ai/claude-code-darwin-x64": "2.1.239", "@anthropic-ai/claude-code-linux-arm64": "2.1.239", "@anthropic-ai/claude-code-linux-arm64-musl": "2.1.239", "@anthropic-ai/claude-code-linux-x64": "2.1.239", "@anthropic-ai/claude-code-linux-x64-musl": "2.1.239", "@anthropic-ai/claude-code-win32-arm64": "2.1.239", "@anthropic-ai/claude-code-win32-x64": "2.1.239" }, "bin": { "claude": "bin/claude.exe" } }, "sha512-mTVnJs4BQZGHGTPkgkybjsf6wPyow67ATjNOO5hEo6eaBATqn/zg4iC6/+IewLLbXYjeri+ZZNYxMZP78YW8KA=="],
+    "@anthropic-ai/claude-code": ["@anthropic-ai/claude-code@2.1.241", "", { "optionalDependencies": { "@anthropic-ai/claude-code-darwin-arm64": "2.1.241", "@anthropic-ai/claude-code-darwin-x64": "2.1.241", "@anthropic-ai/claude-code-linux-arm64": "2.1.241", "@anthropic-ai/claude-code-linux-arm64-musl": "2.1.241", "@anthropic-ai/claude-code-linux-x64": "2.1.241", "@anthropic-ai/claude-code-linux-x64-musl": "2.1.241", "@anthropic-ai/claude-code-win32-arm64": "2.1.241", "@anthropic-ai/claude-code-win32-x64": "2.1.241" }, "bin": { "claude": "bin/claude.exe" } }, "sha512-S7DWEmJJAsI5taAUjhKm6soXcFJYIVeTH6Lg9kmp3yntFllCP612hGwZ7thOGh8r7YaRUH9+1jCX5A9QGazsxg=="],
 
-    "@anthropic-ai/claude-code-darwin-arm64": ["@anthropic-ai/claude-code-darwin-arm64@2.1.239", "", { "os": "darwin", "cpu": "arm64" }, "sha512-sQZA6mdzbp9nsTXYIxWmuMZOzLb/XpcOY1h6krUt8AgHdgsX8wZPOntGWatpTn/tevIshv1NhYpL8WJTJdwZ1w=="],
+    "@anthropic-ai/claude-code-darwin-arm64": ["@anthropic-ai/claude-code-darwin-arm64@2.1.241", "", { "os": "darwin", "cpu": "arm64" }, "sha512-CLxxd2aTrhKWYp9SCoUpNsuk1QIpMRS5IfVpJ73VmkJ9ZdNGQ+ktxZmzda7mz/vl1CcSiOvqVtk2xrWGGhahzg=="],
 
-    "@anthropic-ai/claude-code-darwin-x64": ["@anthropic-ai/claude-code-darwin-x64@2.1.239", "", { "os": "darwin", "cpu": "x64" }, "sha512-tEfux91ZNsmHjM0N+4NnZXjKAeMV58uTJa8iES0gjCIWToAlBZgPQDNMW1AfQSWQNC83hmUqfsIm9bSiX1Em+Q=="],
+    "@anthropic-ai/claude-code-darwin-x64": ["@anthropic-ai/claude-code-darwin-x64@2.1.241", "", { "os": "darwin", "cpu": "x64" }, "sha512-azcGoCiOJCMwVlSC7vG9J6nLQIiycv/W5asmRA+O5NxqRBmIMeRKB5rmjHgVCiIYHe2XrDRqksdt1zPUSZYgCw=="],
 
-    "@anthropic-ai/claude-code-linux-arm64": ["@anthropic-ai/claude-code-linux-arm64@2.1.239", "", { "os": "linux", "cpu": "arm64" }, "sha512-ZEssQZvMi0QNGppgW5fl+o83c1eCBjmsqVG/w4tZIp897LycumN2VkQDSVDZRH9gUyOWJFPtQo6ztdxO2G/Ntg=="],
+    "@anthropic-ai/claude-code-linux-arm64": ["@anthropic-ai/claude-code-linux-arm64@2.1.241", "", { "os": "linux", "cpu": "arm64" }, "sha512-tHsJhjwcoFyKTCQfYCclKjLtbnbbGKvcrzxUhMb6NDlPw9RrawmjSWUAdla7PtEVPaJsGkjGo4O2MQTlYIT+PA=="],
 
-    "@anthropic-ai/claude-code-linux-arm64-musl": ["@anthropic-ai/claude-code-linux-arm64-musl@2.1.239", "", { "os": "linux", "cpu": "arm64" }, "sha512-HLEi8khA+oEcJOJ/KPfFzBvC3B/C6k8pDxMwzxBMBdVdIObcKdYx75zp38XJah10pSQrDeEHXAgtmo2RQi/bmQ=="],
+    "@anthropic-ai/claude-code-linux-arm64-musl": ["@anthropic-ai/claude-code-linux-arm64-musl@2.1.241", "", { "os": "linux", "cpu": "arm64" }, "sha512-D2U26XKlKOCT/V/oIo2KNmGfaVAjqbNaU250IeViDnOLhuZNXyxnsfH3ptD0KIuHKvONPvqOTDiGrviQLNvs7g=="],
 
-    "@anthropic-ai/claude-code-linux-x64": ["@anthropic-ai/claude-code-linux-x64@2.1.239", "", { "os": "linux", "cpu": "x64" }, "sha512-glj5zramK4ebmNa0EVx1iAtBfWHKnZ1q0Ti+1veMR4GHR9ttSranQoMIsLIuJUdRX/hErJnArjwe9hanuxE+dg=="],
+    "@anthropic-ai/claude-code-linux-x64": ["@anthropic-ai/claude-code-linux-x64@2.1.241", "", { "os": "linux", "cpu": "x64" }, "sha512-yHcPvq6iSblC7Mj05yjWBJOfSC3scyyEYazdX/QRUmXmqYXc1hh8LGZaaZPGv+UFXOJZhpPnNCbyVLdMLFCr4Q=="],
 
-    "@anthropic-ai/claude-code-linux-x64-musl": ["@anthropic-ai/claude-code-linux-x64-musl@2.1.239", "", { "os": "linux", "cpu": "x64" }, "sha512-aswAyP0Tg4EgTSJkjQh8czwyD7Q3IIBGflr++cw4hcbae8aleL6AnFciMCzBOQGCst/j5iYLHNyFw1jyYEawRA=="],
+    "@anthropic-ai/claude-code-linux-x64-musl": ["@anthropic-ai/claude-code-linux-x64-musl@2.1.241", "", { "os": "linux", "cpu": "x64" }, "sha512-SnnYE5oWOFhBvI/bqBbGZQpk7t9fYiODmAB1LFnQxFuxexVTI8c3x6zmcxX3y3LxIZDDS9YJnzSAqrTQBNj58w=="],
 
-    "@anthropic-ai/claude-code-win32-arm64": ["@anthropic-ai/claude-code-win32-arm64@2.1.239", "", { "os": "win32", "cpu": "arm64" }, "sha512-z0uPZ2V5KCjZ2+b9GXSUHNoYPUbqjOpv+2FSk50uQw+P9GMRpui9JIbSAFKgqTem2ziyB4EL2pW3rTNWUCOv3Q=="],
+    "@anthropic-ai/claude-code-win32-arm64": ["@anthropic-ai/claude-code-win32-arm64@2.1.241", "", { "os": "win32", "cpu": "arm64" }, "sha512-5HpivSnvlaI1jyPRdg+kNQTvR9l0dyjDfd+zPQyleXUy6ge+/4s0bzL2uhtIZ9znJ+ng+zabar6Heh5ZYOmhAA=="],
 
-    "@anthropic-ai/claude-code-win32-x64": ["@anthropic-ai/claude-code-win32-x64@2.1.239", "", { "os": "win32", "cpu": "x64" }, "sha512-Kh0ZWJvX9HGvlgBgil0nPYgRMRRCp5Hv0zFeMhfPlN/RfEsbBra9XEBO1ci7xClAfkq5BRDUETxKmS6uUks6og=="],
+    "@anthropic-ai/claude-code-win32-x64": ["@anthropic-ai/claude-code-win32-x64@2.1.241", "", { "os": "win32", "cpu": "x64" }, "sha512-/03kEFXQChkZ4OKU7fas0vByBOFgqUWXvsTNTK19ANS+yGYXVjaH5IYIrQFiXRrvbzVgwgZDwQb93FckZIcPqg=="],
 
     "@babel/helper-string-parser": ["@babel/helper-string-parser@7.29.7", "", {}, "sha512-Pb5ijPrZ89GDH8223L4UP8i6QApWxs04RbPQJTeWDV0/keR2E36MeKnyr6LYmUUvqRRI+Iv87SuF1W6ErINzYw=="],
 
