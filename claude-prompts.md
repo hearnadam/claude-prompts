@@ -1,7 +1,7 @@
 # Claude Code Extracted Prompts
 
 Source binary: node_modules/@anthropic-ai/claude-code-linux-x64/claude
-Claude Code: 2.1.241 (Claude Code)
+Claude Code: 2.1.246 (Claude Code)
 
 Notes:
 - Claude Code does not currently expose a structured prompt-debug command like `codex debug prompt-input`.
@@ -9,9 +9,6 @@ Notes:
 - Short prompt fragments are intentionally excluded so `prompts/` is not polluted with one-line strings.
 - Treat prompt files as extracted embedded prompt components, not guaranteed fully composed runtime prompts.
 
-- [auto-mode-classifier-reviewer](prompts/auto-mode-classifier-reviewer.md)
-- [claude-agent-sdk](prompts/claude-agent-sdk.md)
-- [claude-api-ruby](prompts/claude-api-ruby.md)
 - [claude-code](prompts/claude-code.md)
 - [codebase-search-specialist](prompts/codebase-search-specialist.md)
 - [coming-up-with-a-title-and-a-git-branch-name-for-a-coding-session-based](prompts/coming-up-with-a-title-and-a-git-branch-name-for-a-coding-session-based.md)
@@ -21,12 +18,10 @@ Notes:
 - [operating-autonomously](prompts/operating-autonomously.md)
 - [phase-1-initial-understanding](prompts/phase-1-initial-understanding.md)
 - [phase-2-design](prompts/phase-2-design.md)
-- [pull-request-helper](prompts/pull-request-helper.md)
 - [selecting-memories-that-will-be-useful-to-claude-code-as-it-processes-a](prompts/selecting-memories-that-will-be-useful-to-claude-code-as-it-processes-a.md)
 - [skill-generator](prompts/skill-generator.md)
 - [stop-condition-evaluator](prompts/stop-condition-evaluator.md)
 - [team-shutdown-reminder](prompts/team-shutdown-reminder.md)
-- [tool-use-php](prompts/tool-use-php.md)
 - [usage-friction-points](prompts/usage-friction-points.md)
 - [usage-future-opportunities](prompts/usage-future-opportunities.md)
 - [usage-improvements](prompts/usage-improvements.md)
