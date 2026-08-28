@@ -1,7 +1,7 @@
 # Claude Code Extracted Prompts
 
 Source binary: node_modules/@anthropic-ai/claude-code-linux-x64/claude
-Claude Code: 2.1.247 (Claude Code)
+Claude Code: 2.1.250 (Claude Code)
 
 Notes:
 - Claude Code does not currently expose a structured prompt-debug command like `codex debug prompt-input`.
@@ -14,7 +14,6 @@ Notes:
 - [coming-up-with-a-title-and-a-git-branch-name-for-a-coding-session-based](prompts/coming-up-with-a-title-and-a-git-branch-name-for-a-coding-session-based.md)
 - [date-time-parser](prompts/date-time-parser.md)
 - [hook-condition-evaluator](prompts/hook-condition-evaluator.md)
-- [onboarding-guide-generator](prompts/onboarding-guide-generator.md)
 - [operating-autonomously](prompts/operating-autonomously.md)
 - [phase-1-initial-understanding](prompts/phase-1-initial-understanding.md)
 - [phase-2-design](prompts/phase-2-design.md)
