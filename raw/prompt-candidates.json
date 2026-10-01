@@ -4,7 +4,7 @@
     "length": 402,
     "source": {
       "kind": "StringLiteral",
-      "offset": 202925270
+      "offset": 204114744
     }
   },
   {
@@ -12,7 +12,7 @@
     "length": 1030,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 202925270
+      "offset": 204114744
     }
   },
   {
@@ -20,7 +20,7 @@
     "length": 2222,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 202925270
+      "offset": 204114744
     }
   },
   {
@@ -28,7 +28,15 @@
     "length": 669,
     "source": {
       "kind": "array",
-      "offset": 223261479
+      "offset": 224506099
+    }
+  },
+  {
+    "name": "helpful-observer-whose-goal-is-to-help-the-human-better-understand-their",
+    "length": 395,
+    "source": {
+      "kind": "StringLiteral",
+      "offset": 228961343
     }
   },
   {
@@ -36,7 +44,7 @@
     "length": 319,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 202925270
+      "offset": 204114744
     }
   },
   {
@@ -44,7 +52,7 @@
     "length": 4539,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 202925270
+      "offset": 204114744
     }
   },
   {
@@ -52,7 +60,7 @@
     "length": 1364,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 202925270
+      "offset": 204114744
     }
   },
   {
@@ -60,7 +68,7 @@
     "length": 482,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 202925270
+      "offset": 204114744
     }
   },
   {
@@ -68,7 +76,7 @@
     "length": 320,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 202925270
+      "offset": 204114744
     }
   },
   {
@@ -76,7 +84,7 @@
     "length": 1233,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 202925270
+      "offset": 204114744
     }
   },
   {
@@ -84,7 +92,7 @@
     "length": 7262,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 211685413
+      "offset": 212863072
     }
   },
   {
@@ -92,7 +100,7 @@
     "length": 1451,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 202925270
+      "offset": 204114744
     }
   },
   {
@@ -100,7 +108,7 @@
     "length": 566,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 221032580
+      "offset": 222253114
     }
   },
   {
@@ -108,7 +116,7 @@
     "length": 512,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 214379921
+      "offset": 215563987
     }
   },
   {
@@ -116,7 +124,7 @@
     "length": 522,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 214379921
+      "offset": 215563987
     }
   },
   {
@@ -124,7 +132,7 @@
     "length": 2662,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 214379921
+      "offset": 215563987
     }
   },
   {
@@ -132,7 +140,7 @@
     "length": 464,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 214379921
+      "offset": 215563987
     }
   },
   {
@@ -140,7 +148,7 @@
     "length": 371,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 214379921
+      "offset": 215563987
     }
   },
   {
@@ -148,7 +156,7 @@
     "length": 306,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 214379921
+      "offset": 215563987
     }
   },
   {
@@ -156,7 +164,7 @@
     "length": 1112,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 214379921
+      "offset": 215563987
     }
   },
   {
@@ -164,7 +172,7 @@
     "length": 402,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 214379921
+      "offset": 215563987
     }
   },
   {
@@ -172,7 +180,7 @@
     "length": 590,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 214751288
+      "offset": 215936033
     }
   }
 ]
