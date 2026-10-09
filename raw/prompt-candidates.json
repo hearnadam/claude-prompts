@@ -4,7 +4,7 @@
     "length": 402,
     "source": {
       "kind": "StringLiteral",
-      "offset": 212397042
+      "offset": 214872918
     }
   },
   {
@@ -12,7 +12,7 @@
     "length": 1030,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 212397042
+      "offset": 214872918
     }
   },
   {
@@ -20,7 +20,7 @@
     "length": 2222,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 212397042
+      "offset": 214872918
     }
   },
   {
@@ -28,7 +28,7 @@
     "length": 669,
     "source": {
       "kind": "array",
-      "offset": 233458668
+      "offset": 236138882
     }
   },
   {
@@ -36,15 +36,7 @@
     "length": 396,
     "source": {
       "kind": "StringLiteral",
-      "offset": 239457198
-    }
-  },
-  {
-    "name": "hook-condition-evaluator",
-    "length": 319,
-    "source": {
-      "kind": "TemplateLiteral",
-      "offset": 212397042
+      "offset": 242039241
     }
   },
   {
@@ -52,7 +44,7 @@
     "length": 4539,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 212397042
+      "offset": 214872918
     }
   },
   {
@@ -60,7 +52,7 @@
     "length": 1364,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 212397042
+      "offset": 214872918
     }
   },
   {
@@ -68,7 +60,7 @@
     "length": 482,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 212397042
+      "offset": 214872918
     }
   },
   {
@@ -76,7 +68,7 @@
     "length": 320,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 212397042
+      "offset": 214872918
     }
   },
   {
@@ -84,7 +76,7 @@
     "length": 1320,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 212397042
+      "offset": 214872918
     }
   },
   {
@@ -92,15 +84,7 @@
     "length": 7262,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 221576492
-    }
-  },
-  {
-    "name": "stop-condition-evaluator",
-    "length": 1451,
-    "source": {
-      "kind": "TemplateLiteral",
-      "offset": 212397042
+      "offset": 224243262
     }
   },
   {
@@ -108,7 +92,7 @@
     "length": 566,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 238386811
+      "offset": 241184987
     }
   },
   {
@@ -116,7 +100,7 @@
     "length": 512,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 225339122
+      "offset": 227762956
     }
   },
   {
@@ -124,7 +108,7 @@
     "length": 522,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 225339122
+      "offset": 227762956
     }
   },
   {
@@ -132,7 +116,7 @@
     "length": 2662,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 225339122
+      "offset": 227762956
     }
   },
   {
@@ -140,7 +124,7 @@
     "length": 464,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 225339122
+      "offset": 227762956
     }
   },
   {
@@ -148,7 +132,7 @@
     "length": 371,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 225339122
+      "offset": 227762956
     }
   },
   {
@@ -156,7 +140,7 @@
     "length": 306,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 225339122
+      "offset": 227762956
     }
   },
   {
@@ -164,7 +148,7 @@
     "length": 1112,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 225339122
+      "offset": 227762956
     }
   },
   {
@@ -172,7 +156,7 @@
     "length": 402,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 225339122
+      "offset": 227762956
     }
   },
   {
@@ -180,7 +164,7 @@
     "length": 590,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 225624580
+      "offset": 227930443
     }
   }
 ]
