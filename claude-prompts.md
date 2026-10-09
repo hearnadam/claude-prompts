@@ -1,7 +1,7 @@
 # Claude Code Extracted Prompts
 
 Source binary: node_modules/@anthropic-ai/claude-code-linux-x64/claude
-Claude Code: 2.1.293 (Claude Code)
+Claude Code: 2.1.295 (Claude Code)
 
 Notes:
 - Claude Code does not currently expose a structured prompt-debug command like `codex debug prompt-input`.
@@ -14,14 +14,12 @@ Notes:
 - [coming-up-with-a-title-and-a-git-branch-name-for-a-coding-session-based](prompts/coming-up-with-a-title-and-a-git-branch-name-for-a-coding-session-based.md)
 - [date-time-parser](prompts/date-time-parser.md)
 - [helpful-observer-whose-goal-is-to-help-the-human-better-understand-their](prompts/helpful-observer-whose-goal-is-to-help-the-human-better-understand-their.md)
-- [hook-condition-evaluator](prompts/hook-condition-evaluator.md)
 - [onboarding-guide-generator](prompts/onboarding-guide-generator.md)
 - [operating-autonomously](prompts/operating-autonomously.md)
 - [phase-1-initial-understanding](prompts/phase-1-initial-understanding.md)
 - [phase-2-design](prompts/phase-2-design.md)
 - [selecting-memories-that-will-be-useful-to-claude-code-as-it-processes-a](prompts/selecting-memories-that-will-be-useful-to-claude-code-as-it-processes-a.md)
 - [skill-generator](prompts/skill-generator.md)
-- [stop-condition-evaluator](prompts/stop-condition-evaluator.md)
 - [team-shutdown-reminder](prompts/team-shutdown-reminder.md)
 - [usage-friction-points](prompts/usage-friction-points.md)
 - [usage-future-opportunities](prompts/usage-future-opportunities.md)
