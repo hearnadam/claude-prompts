@@ -1,7 +1,7 @@
 # Claude Code Extracted Prompts
 
 Source binary: node_modules/@anthropic-ai/claude-code-linux-x64/claude
-Claude Code: 2.1.300 (Claude Code)
+Claude Code: 2.1.302 (Claude Code)
 
 Notes:
 - Claude Code does not currently expose a structured prompt-debug command like `codex debug prompt-input`.
@@ -18,6 +18,7 @@ Notes:
 - [operating-autonomously](prompts/operating-autonomously.md)
 - [phase-1-initial-understanding](prompts/phase-1-initial-understanding.md)
 - [phase-2-design](prompts/phase-2-design.md)
+- [running-as-the-claude-code-cli-in-a-terminal](prompts/running-as-the-claude-code-cli-in-a-terminal.md)
 - [selecting-memories-that-will-be-useful-to-claude-code-as-it-processes-a](prompts/selecting-memories-that-will-be-useful-to-claude-code-as-it-processes-a.md)
 - [skill-generator](prompts/skill-generator.md)
 - [team-shutdown-reminder](prompts/team-shutdown-reminder.md)
@@ -29,7 +30,6 @@ Notes:
 - [usage-project-areas](prompts/usage-project-areas.md)
 - [usage-session-facets](prompts/usage-session-facets.md)
 - [usage-working-well](prompts/usage-working-well.md)
-- [workflow-subagent](prompts/workflow-subagent.md)
 
 Raw artifacts:
 - [claude --help](raw/claude-help.txt)
