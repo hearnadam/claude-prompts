@@ -4,7 +4,7 @@
     "length": 402,
     "source": {
       "kind": "StringLiteral",
-      "offset": 248471053
+      "offset": 248422491
     }
   },
   {
@@ -12,15 +12,7 @@
     "length": 1030,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 248471053
-    }
-  },
-  {
-    "name": "coming-up-with-a-title-and-a-git-branch-name-for-a-coding-session-based",
-    "length": 2222,
-    "source": {
-      "kind": "TemplateLiteral",
-      "offset": 248471053
+      "offset": 248422491
     }
   },
   {
@@ -28,7 +20,7 @@
     "length": 669,
     "source": {
       "kind": "array",
-      "offset": 274358725
+      "offset": 275719369
     }
   },
   {
@@ -36,7 +28,7 @@
     "length": 396,
     "source": {
       "kind": "StringLiteral",
-      "offset": 278129992
+      "offset": 278205238
     }
   },
   {
@@ -44,7 +36,7 @@
     "length": 4539,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 248471053
+      "offset": 248422491
     }
   },
   {
@@ -52,7 +44,7 @@
     "length": 1364,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 248471053
+      "offset": 248422491
     }
   },
   {
@@ -60,7 +52,7 @@
     "length": 482,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 248471053
+      "offset": 248422491
     }
   },
   {
@@ -68,7 +60,7 @@
     "length": 320,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 248471053
+      "offset": 248422491
     }
   },
   {
@@ -76,7 +68,7 @@
     "length": 480,
     "source": {
       "kind": "StringLiteral",
-      "offset": 244351692
+      "offset": 244185575
     }
   },
   {
@@ -84,7 +76,7 @@
     "length": 1320,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 248471053
+      "offset": 248422491
     }
   },
   {
@@ -92,7 +84,7 @@
     "length": 7262,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 258312093
+      "offset": 258507367
     }
   },
   {
@@ -100,7 +92,7 @@
     "length": 566,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 276811219
+      "offset": 267439276
     }
   },
   {
@@ -108,7 +100,7 @@
     "length": 512,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 262284554
+      "offset": 261899821
     }
   },
   {
@@ -116,7 +108,7 @@
     "length": 522,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 262284554
+      "offset": 261899821
     }
   },
   {
@@ -124,7 +116,7 @@
     "length": 2662,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 262284554
+      "offset": 261899821
     }
   },
   {
@@ -132,7 +124,7 @@
     "length": 464,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 262284554
+      "offset": 261899821
     }
   },
   {
@@ -140,7 +132,7 @@
     "length": 371,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 262284554
+      "offset": 261899821
     }
   },
   {
@@ -148,7 +140,7 @@
     "length": 306,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 262284554
+      "offset": 261899821
     }
   },
   {
@@ -156,7 +148,7 @@
     "length": 1112,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 262284554
+      "offset": 261899821
     }
   },
   {
@@ -164,7 +156,7 @@
     "length": 402,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 262284554
+      "offset": 261899821
     }
   }
 ]
