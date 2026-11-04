@@ -1,586 +1,590 @@
 {
   "chunks": [
     {
-      "offset": 28065312,
-      "length": 77520
+      "offset": 28294816,
+      "length": 82927
     },
     {
-      "offset": 275492199,
-      "length": 132667
+      "offset": 280102254,
+      "length": 135179
     },
     {
-      "offset": 275638682,
-      "length": 92737
+      "offset": 280385088,
+      "length": 78264
     },
     {
-      "offset": 275837451,
-      "length": 77648
-    },
-    {
-      "offset": 276045812,
+      "offset": 280593715,
       "length": 94917
     },
     {
-      "offset": 276144488,
-      "length": 516539
+      "offset": 280692393,
+      "length": 517878
     },
     {
-      "offset": 276815586,
-      "length": 110318
+      "offset": 281365554,
+      "length": 110410
     },
     {
-      "offset": 276985582,
-      "length": 126621
+      "offset": 281536138,
+      "length": 126715
     },
     {
-      "offset": 277112204,
+      "offset": 281662854,
       "length": 122146
     },
     {
-      "offset": 277241162,
-      "length": 80660
+      "offset": 281791812,
+      "length": 80703
     },
     {
-      "offset": 277410256,
+      "offset": 281962420,
       "length": 103581
     },
     {
-      "offset": 277525814,
-      "length": 110241
+      "offset": 282077983,
+      "length": 113089
     },
     {
-      "offset": 277756988,
-      "length": 812847
+      "offset": 282312569,
+      "length": 834080
     },
     {
-      "offset": 278681191,
+      "offset": 283259391,
       "length": 59626
     },
     {
-      "offset": 278746823,
-      "length": 927974
+      "offset": 283325023,
+      "length": 944031
     },
     {
-      "offset": 279717860,
-      "length": 318804
+      "offset": 284312120,
+      "length": 299451
     },
     {
-      "offset": 280488400,
-      "length": 297439
+      "offset": 284758572,
+      "length": 60681
     },
     {
-      "offset": 280843134,
-      "length": 60589
-    },
-    {
-      "offset": 281198277,
+      "offset": 285142633,
       "length": 115676
     },
     {
-      "offset": 281313954,
-      "length": 77807
+      "offset": 285258784,
+      "length": 64836
     },
     {
-      "offset": 281445254,
-      "length": 61908
+      "offset": 285381525,
+      "length": 61898
     },
     {
-      "offset": 281507163,
-      "length": 106125
+      "offset": 285443424,
+      "length": 106163
     },
     {
-      "offset": 281618592,
-      "length": 290264
+      "offset": 285555243,
+      "length": 289651
     },
     {
-      "offset": 281983931,
-      "length": 1090979
+      "offset": 285891028,
+      "length": 1081282
     },
     {
-      "offset": 283187779,
-      "length": 53093
+      "offset": 287005015,
+      "length": 107626
     },
     {
-      "offset": 283468108,
-      "length": 55219
+      "offset": 287372994,
+      "length": 300580
     },
     {
-      "offset": 283571628,
-      "length": 52938
+      "offset": 287993699,
+      "length": 53143
     },
     {
-      "offset": 283664553,
-      "length": 73862
+      "offset": 288273474,
+      "length": 55386
     },
     {
-      "offset": 283768913,
-      "length": 668329
+      "offset": 288376837,
+      "length": 52936
     },
     {
-      "offset": 284875058,
-      "length": 54851
+      "offset": 288457011,
+      "length": 75590
     },
     {
-      "offset": 284929910,
-      "length": 66449
+      "offset": 288566377,
+      "length": 591594
     },
     {
-      "offset": 284997576,
-      "length": 54118
+      "offset": 289629285,
+      "length": 66451
     },
     {
-      "offset": 285200050,
-      "length": 53736
+      "offset": 289696953,
+      "length": 54008
     },
     {
-      "offset": 285423229,
-      "length": 5168916
+      "offset": 289868532,
+      "length": 54324
     },
     {
-      "offset": 290653388,
-      "length": 53707
+      "offset": 290100164,
+      "length": 5230697
     },
     {
-      "offset": 290712226,
-      "length": 54832
+      "offset": 295397744,
+      "length": 57268
     },
     {
-      "offset": 290800266,
-      "length": 328784
+      "offset": 295460143,
+      "length": 55425
     },
     {
-      "offset": 291169677,
-      "length": 54703
+      "offset": 295549342,
+      "length": 346232
     },
     {
-      "offset": 291344329,
+      "offset": 295937314,
+      "length": 55578
+    },
+    {
+      "offset": 296121469,
       "length": 589611
     },
     {
-      "offset": 291966723,
-      "length": 69630
+      "offset": 296750384,
+      "length": 57312
     },
     {
-      "offset": 292047473,
-      "length": 72406
+      "offset": 296818975,
+      "length": 72547
     },
     {
-      "offset": 292159654,
-      "length": 94973
+      "offset": 296931299,
+      "length": 96075
     },
     {
-      "offset": 292294245,
-      "length": 379353
+      "offset": 297067423,
+      "length": 379192
     },
     {
-      "offset": 292675059,
-      "length": 51083
+      "offset": 297448076,
+      "length": 51129
     },
     {
-      "offset": 292777844,
-      "length": 94522
+      "offset": 297551550,
+      "length": 94673
     },
     {
-      "offset": 293020849,
-      "length": 181626
+      "offset": 297796013,
+      "length": 181682
     },
     {
-      "offset": 293202476,
-      "length": 55323
+      "offset": 297977696,
+      "length": 55500
     },
     {
-      "offset": 293383552,
-      "length": 160892
+      "offset": 298163850,
+      "length": 156682
     },
     {
-      "offset": 293544760,
-      "length": 92309
+      "offset": 298320848,
+      "length": 92353
     },
     {
-      "offset": 293674270,
-      "length": 177263
+      "offset": 298451117,
+      "length": 186518
     },
     {
-      "offset": 293940839,
-      "length": 64682
+      "offset": 298728058,
+      "length": 64862
     },
     {
-      "offset": 294167850,
-      "length": 175338
+      "offset": 298956931,
+      "length": 176007
     },
     {
-      "offset": 294494337,
-      "length": 239585
+      "offset": 299285927,
+      "length": 251638
     },
     {
-      "offset": 294806447,
-      "length": 91463
+      "offset": 299611153,
+      "length": 92106
     },
     {
-      "offset": 294994538,
+      "offset": 299798565,
       "length": 100292
     },
     {
-      "offset": 295182519,
-      "length": 51541
+      "offset": 299988459,
+      "length": 51659
     },
     {
-      "offset": 295336383,
+      "offset": 300142445,
       "length": 64875
     },
     {
-      "offset": 295485785,
-      "length": 222461
+      "offset": 300291898,
+      "length": 222579
     },
     {
-      "offset": 295775941,
-      "length": 151550
+      "offset": 300584703,
+      "length": 152655
     },
     {
-      "offset": 296075848,
-      "length": 73286
+      "offset": 300897980,
+      "length": 75065
     },
     {
-      "offset": 296170422,
-      "length": 96207
+      "offset": 300994320,
+      "length": 101596
     },
     {
-      "offset": 296426483,
-      "length": 129984
+      "offset": 301259752,
+      "length": 130038
     },
     {
-      "offset": 296750278,
-      "length": 55317
+      "offset": 301590410,
+      "length": 55293
     },
     {
-      "offset": 296855878,
-      "length": 52837
+      "offset": 301696481,
+      "length": 53016
     },
     {
-      "offset": 296936066,
-      "length": 210511
+      "offset": 301776845,
+      "length": 210657
     },
     {
-      "offset": 297201061,
-      "length": 62884
+      "offset": 302037407,
+      "length": 62867
     },
     {
-      "offset": 297530004,
-      "length": 58870
+      "offset": 302374556,
+      "length": 59850
     },
     {
-      "offset": 297696798,
+      "offset": 302544664,
       "length": 55256
     },
     {
-      "offset": 297993637,
+      "offset": 302845838,
       "length": 159571
     },
     {
-      "offset": 298268630,
+      "offset": 303120831,
       "length": 169771
     },
     {
-      "offset": 298696194,
+      "offset": 303590385,
       "length": 332324
     },
     {
-      "offset": 299338376,
-      "length": 105879
+      "offset": 304253905,
+      "length": 106041
     },
     {
-      "offset": 299614621,
-      "length": 110965
+      "offset": 304470923,
+      "length": 103658
     },
     {
-      "offset": 299996874,
-      "length": 74433
+      "offset": 304913174,
+      "length": 75025
     },
     {
-      "offset": 300103639,
-      "length": 176252
+      "offset": 305165104,
+      "length": 176386
     },
     {
-      "offset": 300594512,
-      "length": 63961
+      "offset": 305621305,
+      "length": 64005
     },
     {
-      "offset": 301012068,
-      "length": 117723
-    },
-    {
-      "offset": 301136424,
+      "offset": 305979367,
       "length": 248525
     },
     {
-      "offset": 301608648,
-      "length": 62201
+      "offset": 306353202,
+      "length": 124240
     },
     {
-      "offset": 302028500,
-      "length": 115566
+      "offset": 306588456,
+      "length": 62245
     },
     {
-      "offset": 302309997,
-      "length": 69753
+      "offset": 307039435,
+      "length": 116611
     },
     {
-      "offset": 302721785,
-      "length": 181873
+      "offset": 307325682,
+      "length": 70026
     },
     {
-      "offset": 302903659,
-      "length": 102745
+      "offset": 307810683,
+      "length": 188256
     },
     {
-      "offset": 303239847,
+      "offset": 308001926,
+      "length": 101949
+    },
+    {
+      "offset": 308352422,
       "length": 59498
     },
     {
-      "offset": 303334089,
-      "length": 115152
+      "offset": 308446910,
+      "length": 118159
     },
     {
-      "offset": 303507395,
-      "length": 81122
+      "offset": 308625889,
+      "length": 81380
     },
     {
-      "offset": 303759060,
-      "length": 73789
+      "offset": 308852347,
+      "length": 74114
     },
     {
-      "offset": 304413546,
-      "length": 1575494
+      "offset": 309688656,
+      "length": 1579205
     },
     {
-      "offset": 306084063,
-      "length": 90088
+      "offset": 311310320,
+      "length": 90999
     },
     {
-      "offset": 306884409,
-      "length": 112964
+      "offset": 312212296,
+      "length": 113736
     },
     {
-      "offset": 307015156,
+      "offset": 312356294,
       "length": 60740
     },
     {
-      "offset": 307075897,
-      "length": 53033
+      "offset": 312417035,
+      "length": 53350
     },
     {
-      "offset": 307141116,
+      "offset": 312483156,
       "length": 179788
     },
     {
-      "offset": 307603541,
-      "length": 52154
+      "offset": 312958247,
+      "length": 52448
     },
     {
-      "offset": 308109780,
-      "length": 61041
+      "offset": 313229506,
+      "length": 217166
     },
     {
-      "offset": 308170822,
-      "length": 62638
+      "offset": 313583074,
+      "length": 50105
     },
     {
-      "offset": 308282099,
-      "length": 103064
+      "offset": 313729326,
+      "length": 104361
     },
     {
-      "offset": 308553182,
-      "length": 124004
+      "offset": 313946960,
+      "length": 62018
     },
     {
-      "offset": 308693298,
-      "length": 634725
+      "offset": 314008979,
+      "length": 64441
     },
     {
-      "offset": 309426770,
-      "length": 95589
+      "offset": 314230483,
+      "length": 124786
     },
     {
-      "offset": 309540433,
-      "length": 79000
+      "offset": 314371383,
+      "length": 636001
     },
     {
-      "offset": 309673035,
-      "length": 63672
+      "offset": 315132634,
+      "length": 84259
     },
     {
-      "offset": 310435246,
-      "length": 269781
+      "offset": 315235981,
+      "length": 80580
     },
     {
-      "offset": 310711882,
-      "length": 214814
+      "offset": 315361662,
+      "length": 65019
     },
     {
-      "offset": 310927122,
-      "length": 55563
+      "offset": 316243533,
+      "length": 276704
     },
     {
-      "offset": 311003377,
-      "length": 79723
+      "offset": 316528547,
+      "length": 214472
     },
     {
-      "offset": 311125516,
-      "length": 175378
+      "offset": 316743445,
+      "length": 65070
     },
     {
-      "offset": 311306460,
-      "length": 134571
+      "offset": 316829207,
+      "length": 83471
     },
     {
-      "offset": 311602340,
-      "length": 1938129
+      "offset": 316967109,
+      "length": 177299
     },
     {
-      "offset": 313629700,
-      "length": 94418
+      "offset": 317150037,
+      "length": 136125
     },
     {
-      "offset": 313728857,
-      "length": 107230
+      "offset": 317442080,
+      "length": 1936627
     },
     {
-      "offset": 313861375,
-      "length": 54900
+      "offset": 319472181,
+      "length": 72767
     },
     {
-      "offset": 313922746,
-      "length": 50721
+      "offset": 319549687,
+      "length": 99714
     },
     {
-      "offset": 313974572,
-      "length": 115038
+      "offset": 319658482,
+      "length": 55076
     },
     {
-      "offset": 314187946,
-      "length": 917406
+      "offset": 319770661,
+      "length": 121539
     },
     {
-      "offset": 315105676,
-      "length": 163287
+      "offset": 319991284,
+      "length": 944846
     },
     {
-      "offset": 315309078,
-      "length": 137576
+      "offset": 320958348,
+      "length": 162990
     },
     {
-      "offset": 315497237,
-      "length": 66946
+      "offset": 321225966,
+      "length": 54373
     },
     {
-      "offset": 315564951,
-      "length": 90461
+      "offset": 321369782,
+      "length": 138542
     },
     {
-      "offset": 315872391,
-      "length": 51261
+      "offset": 321559770,
+      "length": 67258
     },
     {
-      "offset": 317197257,
-      "length": 338482
+      "offset": 321627029,
+      "length": 90714
     },
     {
-      "offset": 317629964,
-      "length": 58490
+      "offset": 323202563,
+      "length": 338490
     },
     {
-      "offset": 317698628,
-      "length": 169811
+      "offset": 323637210,
+      "length": 58496
     },
     {
-      "offset": 317868440,
-      "length": 64787
+      "offset": 323705578,
+      "length": 171525
     },
     {
-      "offset": 318031555,
-      "length": 217748
+      "offset": 323877104,
+      "length": 64793
     },
     {
-      "offset": 318409021,
-      "length": 50746
+      "offset": 324045966,
+      "length": 218558
     },
     {
-      "offset": 319060033,
-      "length": 64986
+      "offset": 324518107,
+      "length": 52419
     },
     {
-      "offset": 319147613,
-      "length": 52186
+      "offset": 325086223,
+      "length": 65226
     },
     {
-      "offset": 319229949,
-      "length": 326305
+      "offset": 325174047,
+      "length": 52277
     },
     {
-      "offset": 319669568,
+      "offset": 325257527,
+      "length": 327556
+    },
+    {
+      "offset": 325729359,
       "length": 266847
     },
     {
-      "offset": 319949524,
+      "offset": 325996207,
       "length": 392809
     },
     {
-      "offset": 320633171,
-      "length": 54561
+      "offset": 326719423,
+      "length": 55702
     },
     {
-      "offset": 320961124,
-      "length": 117302
+      "offset": 326915799,
+      "length": 117158
     },
     {
-      "offset": 321242702,
-      "length": 252584
+      "offset": 327268237,
+      "length": 252342
     },
     {
-      "offset": 321822274,
-      "length": 99993
+      "offset": 328020612,
+      "length": 54567
     },
     {
-      "offset": 322107948,
-      "length": 53533
+      "offset": 328078400,
+      "length": 51702
     },
     {
-      "offset": 322164700,
-      "length": 50668
+      "offset": 328229610,
+      "length": 98395
     },
     {
-      "offset": 322329505,
-      "length": 64977
+      "offset": 328412924,
+      "length": 71696
     },
     {
-      "offset": 322454038,
-      "length": 70724
+      "offset": 328730952,
+      "length": 66040
     },
     {
-      "offset": 323073884,
-      "length": 51160
+      "offset": 329243634,
+      "length": 52229
     },
     {
-      "offset": 323690103,
-      "length": 50433
+      "offset": 329964715,
+      "length": 51484
     },
     {
-      "offset": 324170463,
-      "length": 65134
+      "offset": 330538458,
+      "length": 66109
     },
     {
-      "offset": 324733723,
-      "length": 90632
+      "offset": 331142099,
+      "length": 91129
     },
     {
-      "offset": 325849258,
-      "length": 74425
+      "offset": 331942388,
+      "length": 61628
+    },
+    {
+      "offset": 332237308,
+      "length": 68276
     }
   ],
   "parseErrors": [
     {
-      "offset": 28065312,
-      "length": 77520,
+      "offset": 28294816,
+      "length": 82927,
       "error": "This experimental syntax requires enabling one of the following parser plugin(s): \"decorators\", \"decorators-legacy\". (2:27)"
     }
   ]
