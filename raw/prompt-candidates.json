@@ -4,7 +4,7 @@
     "length": 402,
     "source": {
       "kind": "StringLiteral",
-      "offset": 285423229
+      "offset": 290100164
     }
   },
   {
@@ -12,7 +12,7 @@
     "length": 1030,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 285423229
+      "offset": 290100164
     }
   },
   {
@@ -20,7 +20,7 @@
     "length": 669,
     "source": {
       "kind": "array",
-      "offset": 311602340
+      "offset": 317442080
     }
   },
   {
@@ -28,15 +28,15 @@
     "length": 396,
     "source": {
       "kind": "StringLiteral",
-      "offset": 315564951
+      "offset": 321627029
     }
   },
   {
     "name": "onboarding-guide-generator",
-    "length": 4539,
+    "length": 4837,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 285423229
+      "offset": 290100164
     }
   },
   {
@@ -44,7 +44,7 @@
     "length": 1364,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 285423229
+      "offset": 290100164
     }
   },
   {
@@ -52,7 +52,7 @@
     "length": 482,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 285423229
+      "offset": 290100164
     }
   },
   {
@@ -60,7 +60,7 @@
     "length": 320,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 285423229
+      "offset": 290100164
     }
   },
   {
@@ -68,7 +68,7 @@
     "length": 480,
     "source": {
       "kind": "StringLiteral",
-      "offset": 281313954
+      "offset": 285258784
     }
   },
   {
@@ -76,7 +76,7 @@
     "length": 1320,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 285423229
+      "offset": 290100164
     }
   },
   {
@@ -84,7 +84,7 @@
     "length": 7262,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 295485785
+      "offset": 300291898
     }
   },
   {
@@ -92,7 +92,7 @@
     "length": 566,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 314187946
+      "offset": 319991284
     }
   },
   {
@@ -100,7 +100,7 @@
     "length": 512,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 299338376
+      "offset": 304253905
     }
   },
   {
@@ -108,7 +108,7 @@
     "length": 522,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 299338376
+      "offset": 304253905
     }
   },
   {
@@ -116,7 +116,7 @@
     "length": 2662,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 299338376
+      "offset": 304253905
     }
   },
   {
@@ -124,7 +124,7 @@
     "length": 464,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 299338376
+      "offset": 304253905
     }
   },
   {
@@ -132,7 +132,7 @@
     "length": 371,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 299338376
+      "offset": 304253905
     }
   },
   {
@@ -140,7 +140,7 @@
     "length": 306,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 299338376
+      "offset": 304253905
     }
   },
   {
@@ -148,7 +148,7 @@
     "length": 1112,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 299338376
+      "offset": 304253905
     }
   },
   {
@@ -156,7 +156,7 @@
     "length": 402,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 299338376
+      "offset": 304253905
     }
   }
 ]

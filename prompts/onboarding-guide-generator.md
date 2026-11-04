@@ -46,6 +46,8 @@ Generate the guide immediately, then ask for revisions. Don't wait for answers f
 {{GUIDE_TEMPLATE}}
 ```
 
+   If `sessionsLeftOut` is above 0, that many sessions were left out because they couldn't be tied to the way the guide creator is signed in now, so the numbers may not cover everything from this period: say so in one plain sentence under "How We Use Claude" and again when you present the draft.
+
    Fill in real numbers from the usage data (not placeholders). Use `generatedBy` for the name; if it's missing, omit the name. Ascii bar charts: `█` for filled, `░` for empty, 20 chars wide. Keep the HTML comment instruction at the bottom exactly as shown.
 
 5. **Render the guide in a code block, then close out the first turn.** You're co-authoring this guide with the guide creator - frame the follow-up as collaboration, not corrections.
