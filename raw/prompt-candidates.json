@@ -4,7 +4,7 @@
     "length": 402,
     "source": {
       "kind": "StringLiteral",
-      "offset": 337598660
+      "offset": 339954522
     }
   },
   {
@@ -12,7 +12,7 @@
     "length": 1030,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 337598660
+      "offset": 339954522
     }
   },
   {
@@ -20,7 +20,7 @@
     "length": 669,
     "source": {
       "kind": "array",
-      "offset": 366639920
+      "offset": 367296793
     }
   },
   {
@@ -28,7 +28,7 @@
     "length": 396,
     "source": {
       "kind": "StringLiteral",
-      "offset": 373377885
+      "offset": 376402188
     }
   },
   {
@@ -36,7 +36,7 @@
     "length": 4837,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 337598660
+      "offset": 339954522
     }
   },
   {
@@ -44,7 +44,7 @@
     "length": 1364,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 337598660
+      "offset": 339954522
     }
   },
   {
@@ -52,7 +52,7 @@
     "length": 482,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 337598660
+      "offset": 339954522
     }
   },
   {
@@ -60,7 +60,7 @@
     "length": 320,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 337598660
+      "offset": 339954522
     }
   },
   {
@@ -68,15 +68,7 @@
     "length": 1320,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 337598660
-    }
-  },
-  {
-    "name": "skill-generator",
-    "length": 7262,
-    "source": {
-      "kind": "TemplateLiteral",
-      "offset": 347958332
+      "offset": 339954522
     }
   },
   {
@@ -84,7 +76,7 @@
     "length": 566,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 361915358
+      "offset": 370874352
     }
   },
   {
@@ -92,7 +84,7 @@
     "length": 512,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 354027876
+      "offset": 357676610
     }
   },
   {
@@ -100,7 +92,7 @@
     "length": 522,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 354027876
+      "offset": 357676610
     }
   },
   {
@@ -108,7 +100,7 @@
     "length": 2662,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 354027876
+      "offset": 357676610
     }
   },
   {
@@ -116,7 +108,7 @@
     "length": 464,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 354027876
+      "offset": 357676610
     }
   },
   {
@@ -124,7 +116,7 @@
     "length": 371,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 354027876
+      "offset": 357676610
     }
   },
   {
@@ -132,7 +124,7 @@
     "length": 306,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 354027876
+      "offset": 357676610
     }
   },
   {
@@ -140,7 +132,7 @@
     "length": 1112,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 354027876
+      "offset": 357676610
     }
   },
   {
@@ -148,7 +140,7 @@
     "length": 402,
     "source": {
       "kind": "TemplateLiteral",
-      "offset": 354027876
+      "offset": 357676610
     }
   }
 ]
